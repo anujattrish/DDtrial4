@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array">
+        <item>"Analog Clock1"</item>
+        <item>"Digital"</item>
+        <item>"Analog Clock2"</item>
+        <item>"Analog-Digital</item>
+        <item>"Digital-Analog</item>
+        <item>"Analog Clock3"</item>
+        <item>"Big Digital"</item>
+    </string-array>
+    <array name="imageValues">
+        <item>@drawable/analog1</item>
+        <item>@drawable/digital</item>
+        <item>@drawable/analog1</item>
+    </array>
+    <string-array name="value">
+        <item>analogval</item>
+        <item>digitalval</item>
+        <item>analogval2</item>
+        <item>analogdigitalval</item>
+        <item>digitalanalogval</item>
+        <item>analogval3</item>
+        <item>bigdigital</item>
+    </string-array>
+</resources>

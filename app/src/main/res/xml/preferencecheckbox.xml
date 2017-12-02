@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceScreen
+        android:title="About">
+        <PreferenceScreen
+            />
+    </PreferenceScreen>
+    <ListPreference
+        android:key="listkey"
+        android:title="Clock"
+        android:summary="Select type of clock"
+        android:entries="@array/array"
+        android:entryValues="@array/value"/>
+
+</PreferenceScreen>
